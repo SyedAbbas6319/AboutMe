@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Abbas</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web Developer and Blockchain Enthusiast from Pakistan</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=SyedAbbas6319&label=Profile%20views&color=0e75b6&style=flat" alt="SyedAbbas6319" /> 
@@ -11,41 +11,32 @@
   </a> 
 </p>
 
-## 🔭 Current Work
-- I’m currently working on **UNI.ape**
-- I’m looking to collaborate on **NEXPOOL**
+### 🌟 About Me
 
-## 👨‍💻 Projects
-- **Project 1**: Description of your role and contribution.
-- **Project 2**: Description of your role and contribution.
-- More details can be found on [SyedMuhammadAbbas.dev](https://SyedMuhammadAbbas.dev).
+- 🎓 **Education**: I recently completed my Bachelor's in Information Technology from the University of Education (2020-2024).
+- 🌐 **Web Development**: I have 2 years of experience in web development, where I've worked with HTML, CSS, JavaScript, PHP, and MongoDB.
+- 💻 **Blockchain Enthusiast**: I have a deep interest in blockchain technology and have developed Web3 applications using Solidity.
+- 🚀 **Current Role**: I'm currently a Web3 Solidity Developer Intern at Sabasoft, where I contribute to multiple Web3 projects.
 
-## 💼 Work Experience
-- **Position at Company** (Dates)
-  - Brief description of your role and responsibilities.
-  - Key achievements or contributions.
-- **Another Position at Company** (Dates)
-  - Brief description of your role and responsibilities.
-  - Key achievements or contributions.
+### 🔧 Skills
 
-## 🎓 Education
-- **Degree** - University (Year of Graduation)
-  - Relevant coursework, honors, or achievements.
-  
-## 📜 Certifications
-- **Certification Name** - Issuing Organization (Year)
-- **Certification Name** - Issuing Organization (Year)
+- **Web Technologies**: HTML, CSS, JavaScript, PHP, MongoDB
+- **Blockchain Development**: Solidity, Web3.js
+- **MERN Stack**: MongoDB, Express.js, React, Node.js
+- **Programming Languages**: Java (PF, OOP, DSA)
+- **Tools & Platforms**: Git, GitHub, VS Code
 
-## 🏆 Awards & Honors
-- **Award Name** - Organization (Year)
-  - Brief description of why you received the award.
+### 📚 Projects
 
-## 💻 Technical Skills
-- **Languages**: JavaScript, Python, etc.
-- **Frameworks**: React, Node.js, etc.
-- **Tools**: Git, Docker, etc.
+- **Blockchain-Based Loan System for University Students**: Developed a system to streamline the process of securing educational loans using blockchain technology. (HTML, CSS, JS, Solidity)
+- **Smart Education Point**: Created a platform that offers self-paced learning, pre-recorded courses, and personalized email support. (HTML, CSS, JS, PHP)
 
-## 🌐 Connect with me
+### 📫 How to reach me
+
+- **Email**: syedabbas6319@gmail.com
+- **Location**: Lahore, Pakistan
+- **Phone**: +92 347 0606205
+
 <p align="left">
   <a href="https://www.linkedin.com/in/syed-muhammad-abbas-7a1201215" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Syed Muhammad Abbas" height="30" width="40" />
